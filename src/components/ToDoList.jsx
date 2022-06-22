@@ -178,7 +178,6 @@ function ToDoList() {
     return (
         <div>
             <div className='container'>
-                {/* <input className='search' type="text" value={search} onChange={onChangeHandler} placeholder='search'></input> */}
                 <div className='row'>
                     <div className='col-9'>
                         <input
