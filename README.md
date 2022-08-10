@@ -23,7 +23,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn React.js](https://react.js.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the React.js GitHub repository](https://github.com/Alta-FE6-Wanda/todo-list-app) - your feedback and contributions are welcome!
-# Deployment to  https://todolist-wanda.surge.sh/
+# Deployment to  https://todolist-wanda.surge.sh/ or https://todo-list-app-opal-delta.vercel.app/
 
 The easiest way to deploy your Rext.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
